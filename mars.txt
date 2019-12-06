@@ -2,9 +2,7 @@ Cold and dry, but everyhting is my favorite color.
 The two moons may be a problem for wolfman.  
 No humidity, the mummy will like mars a lot. 
 Probs won't go here - will start new file on Venus
-<<<<<<< HEAD
 Mars is back on the table.
-=======
 Kathy thinks that what's here is pretty darn silly.
->>>>>>> c1d2d6d422d0b9a1472b02d79f5929f216e540aa
 Is there already a rover on Mars? This could be duplicative 
+And that the teaching approach for this unit could be changed.
